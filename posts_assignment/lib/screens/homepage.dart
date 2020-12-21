@@ -33,7 +33,7 @@ class HomePage extends StatelessWidget {
     'icon': 'c.png',
   };
   Map<String, String> map4 = {
-    'name': 'Shon Updated his Profile Photo',
+    'name': 'Plon Updated his Profile Photo',
     'description':
         "When, while the lovely valley teems with vapour around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees, and but a few stray gleams steal into the inner sanctuary,",
     'photo': '3.jpg',

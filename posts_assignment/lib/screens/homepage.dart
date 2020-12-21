@@ -27,9 +27,9 @@ class HomePage extends StatelessWidget {
     'description':
         "Update on person who was injured while making tiktok video: Stunt garna khojda bridge bata khasera 24 years old male ko kohalpur medical college ma treatment hudai cha",
     'photo': 'wifi.png',
-    'like': '200',
-    'comment': '56',
-    'share': '30',
+    'like': '223',
+    'comment': '98',
+    'share': '32',
     'icon': 'c.png',
   };
   Map<String, String> map4 = {
@@ -37,9 +37,9 @@ class HomePage extends StatelessWidget {
     'description':
         "When, while the lovely valley teems with vapour around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees, and but a few stray gleams steal into the inner sanctuary,",
     'photo': '3.jpg',
-    'like': '200',
-    'comment': '56',
-    'share': '30',
+    'like': '987',
+    'comment': '120',
+    'share': '199',
     'icon': 'd.png',
   };
   @override
